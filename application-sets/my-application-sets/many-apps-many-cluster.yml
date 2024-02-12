@@ -40,4 +40,3 @@ spec:
                 - CreateNamespace=true
                 - SelfHeal=true
                 - AutoSync=true
----
